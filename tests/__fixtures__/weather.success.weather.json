@@ -1,0 +1,21 @@
+{  
+   "consolidated_weather":[  
+      {  
+         "id":6478454258139136,
+         "weather_state_name":"Heavy Cloud",
+         "weather_state_abbr":"hc",
+         "wind_direction_compass":"W",
+         "created":"2018-10-13T06:07:37.696883Z",
+         "applicable_date":"2018-10-13",
+         "min_temp":6.4375,
+         "max_temp":14.342500000000001,
+         "the_temp":13.34,
+         "wind_speed":6.252392444687028,
+         "wind_direction":279.60935614681335,
+         "air_pressure":1026.72,
+         "humidity":79,
+         "visibility":14.19149665950847,
+         "predictability":71
+      }
+   ]
+}
